@@ -1,6 +1,5 @@
-# File Descriptions
 
-## Name: Black Friday --- A study of sales through consumer behaviors
+# Black Friday --- A study of sales through consumer behaviors
 
 The dataset here is a sample of the transactions made in a retail store. The store wants to know the customer purchase behaviors better. This dataset contains different kinds of variables either numerical and categorical. 
 
